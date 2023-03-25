@@ -1,7 +1,6 @@
-# Prompt the user to enter two strings and store 
-# them in buffer1 and buffer2 variables.
-buffer1 = input("Enter string 1: ")
-buffer2 = input("Enter string 2: ")
+# Storing the two strings in buffer1 and buffer2 variables.
+buffer1 = input()
+buffer2 = input()
 
 # Use a ternary operator to print "no" if buffer1 is shorter than buffer2, 
 # otherwise print "go".
